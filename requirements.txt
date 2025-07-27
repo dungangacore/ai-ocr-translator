@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+Pillow
+googletrans==4.0.0-rc1
+SpeechRecognition
+openai
+python-dotenv
+gTTS
+numpy
